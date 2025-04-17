@@ -1,1 +1,2 @@
-# diffmpm_sysid_publication
+# DiffMPM for System Identification in Structural Health Monitoring
+
